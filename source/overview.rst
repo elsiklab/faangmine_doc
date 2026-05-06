@@ -3,7 +3,7 @@ Overview of FAANGMine
 
 This section provides a brief overview of the layout for FAANGMine.
 
- .. figure:: images/FAANGMine-banner.jpg
+.. figure:: images/FAANGMine-banner.jpg
 
 The navigation panel highlights different functionalities of FAANGMine.
 

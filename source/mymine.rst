@@ -19,9 +19,10 @@ To access MyMine, click on the MyMine menu tab. A submenu appears with six optio
 
 
 
- .. figure:: images/MyMine.jpg
-   :width: 696
+.. figure:: images/MyMine.jpg
    :alt: MyMine Home
    :figclass: align-center
    
    Saved lists found under MyMine.  Note that currently saved lists can be selected for analyses to contribute to new lists. 
+
+..
